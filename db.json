@@ -1,0 +1,23 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Chicken Drum",
+        "spicy_level": "Spicy",
+        "price": 20000,
+        "image": "1714725528117-chicken_drum.jpeg",
+        "createdAt": "2024-05-03T08:35:47.584Z",
+        "updatedAt": "2024-05-03T08:38:48.120Z"
+      },
+      {
+        "id": 3,
+        "name": "Chicken Drum",
+        "spicy_level": "Spicy",
+        "price": 20000,
+        "image": "1714725913017-chicken_drum.jpeg",
+        "createdAt": "2024-05-03T08:45:04.918Z",
+        "updatedAt": "2024-05-03T08:45:13.020Z"
+      }
+    ]
+  }
+  
